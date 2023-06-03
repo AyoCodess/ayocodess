@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a Software Developer & Charity Co-founder into e-infrastructure, digitalization, sustainability, social-impact, AI, social-justice, climate-justice and relationship building.
+
 <!--
 **AyoCodess/ayocodess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
