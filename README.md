@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Software Developer & Charity Co-founder into e-infrastructure, digitalization, sustainability, social-impact, AI, social-justice, climate-justice and relationship building.
+I’m a software developer and Charity Co-founder of stopholdingback.org who can work across the whole stack with most of my professional experience being in the front-end. What interests me is e-infrastructure, digitalization, sustainability, social-impact, AI, social-justice and climate-justice. I thrive in teams, helping others grow and building culture that fosters genuine collaboration and connection.
 
 <!--
 **AyoCodess/ayocodess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
