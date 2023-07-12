@@ -4,7 +4,9 @@ I’m a software developer and Charity Co-founder of stopholdingback.org who can
 
 My portfolio website is outdated but you can still look at it ;) 
 
-Note: My latest work has been developed for comapanies which I do not have authority to share pubically. 
+#### Note: 
+
+My latest work has been developed for comapanies which I do not have authority to share pubically. 
 
 #### What I Have the most experiance in
 
