@@ -4,7 +4,11 @@ I’m a software developer and Charity Co-founder of stopholdingback.org who can
 
 My portfolio website is outdated but you can still look at it ;) 
 
-Note: My latest work has been developed for comapanies which I do not have authorty to share pubically. 
+Note: My latest work has been developed for comapanies which I do not have authority to share pubically. 
+
+#### What I Have the most experiance in
+
+Dashboards, Mobile apps (React native). Node API's.
 
 <!--
 **AyoCodess/ayocodess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
