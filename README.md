@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m a software developer and Charity Co-founder of stopholdingback.org who can work across the whole stack with most of my professional experience being in the front-end. What interests me is e-infrastructure, digitalization, sustainability, social-impact, AI, social-justice and climate-justice. I thrive in teams, helping others grow and building culture that fosters genuine collaboration and connection.
+I’m a software developer and Charity Co-founder of stopholdingback.org who can work across the whole stack with most of my professional experience being in the front-end. What interests me is digitalization, sustainability, social-impact, AI, social-justice and climate-justice. I thrive in teams, helping others grow and building culture that fosters genuine collaboration and connection.
 
 My portfolio website is outdated but you can still look at it ;) 
 
