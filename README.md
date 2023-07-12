@@ -14,7 +14,7 @@ Dashboards, Mobile apps (React native), Node API's
 
 #### Current Tech stack:
 
-Next Js, TRPC, Tailwind, Prisma/Drizzle, Vercel/GCP
+React, Expo React Native, Next Js, TRPC, Tailwind CSS, Prisma/Drizzle, Vercel/GCP
 
 <!--
 **AyoCodess/ayocodess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
