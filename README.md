@@ -10,7 +10,11 @@ My latest work has been developed for comapanies which I do not have authority t
 
 #### I have the most experiance in building:
 
-Dashboards, Mobile apps (React native), Node API's and TRPC 
+Dashboards, Mobile apps (React native), Node API's
+
+#### Current Tech stack:
+
+Next Js, TRPC, Tailwind, Prisma/Drizzle, Vercel/GCP
 
 <!--
 **AyoCodess/ayocodess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
