@@ -8,7 +8,7 @@ My portfolio website is outdated but you can still look at it ;)
 
 My latest work has been developed for comapanies which I do not have authority to share pubically. 
 
-#### What I Have the most experiance in:
+#### I Have the most experiance in building:
 
 Dashboards, Mobile apps (React native). Node API's.
 
