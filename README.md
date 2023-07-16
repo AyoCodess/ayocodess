@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Orginally from: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Living in: :sweden:
+Orginally from 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Living in :sweden:
 
 ### Social Media
 
