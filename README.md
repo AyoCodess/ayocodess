@@ -7,21 +7,15 @@ Orginally from: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Living in: :sweden:
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/zee-xiyad/](https://www.linkedin.com/in/ayoadesanya/)) 
 
 ### Core Skills
-   <image src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> <image src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-   <image src="https://img.shields.io/badge/TypeScript-2E72BD?style=for-the-badge&logo=typeScript&logoColor=white" />
-   <image src="https://img.shields.io/badge/postgresql-white?style=for-the-badge&logo=postgresql&logoColor=black%22" />
-   <image src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-   <image src="https://img.shields.io/badge/Express-f5f542?style=for-the-badge&logo=express&logoColor=black" />
-   <image src="https://img.shields.io/badge/Tailwind%20CSS-black?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white%22" />
-   <image src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-   <image src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <image src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <image src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
+<image src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><image src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><image src="https://img.shields.io/badge/Tailwind%20CSS-black?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white%22" /><image src="https://img.shields.io/badge/TypeScript-2E72BD?style=for-the-badge&logo=typeScript&logoColor=white" /><image src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><image src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=black" /><image src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />  <image src="https://img.shields.io/badge/Express-f5f542?style=for-the-badge&logo=express&logoColor=black" /><image src="https://img.shields.io/badge/postgresql-white?style=for-the-badge&logo=postgresql&logoColor=black%22" /><image src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+   
+### About Me
 
 I’m a software developer and Charity Co-founder of stopholdingback.org who can work across the whole stack with most of my professional experience being in the front-end. What interests me is digitalization, sustainability, social-impact, AI, social-justice and climate-justice. I thrive in teams, helping others grow and building culture that fosters genuine collaboration and connection.
 
 My portfolio website is outdated but you can still look at it ;) www.ayoadesanya.com
 
-#### Note: 
+#### Note:
 
 My latest work has been developed for comapanies which I do not have authority to share pubically. 
 
