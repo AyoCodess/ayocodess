@@ -24,7 +24,7 @@ My portfolio website is outdated but you can still look at it ;) www.ayoadesanya
 
 #### I have the most experiance in building
 
-- Dashboards, Mobile apps (React native), Node API's
+- Websites, Dashboards, Mobile apps (React native), Node API's
 
 #### Current Tech stack
 
