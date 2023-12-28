@@ -25,7 +25,7 @@ Visit my portfolio website at [ayoadesanya.com](https://ayoadesanya.com).
 
 #### I have the most experiance in building
 
-- Websites, Dashboards, Mobile apps (React native), Node API's
+- Websites (Next.js), Dashboards (Next.js), Mobile apps (React native Expo), Node API's (Express, TRPC)
 
 #### Current Tech stack
 
