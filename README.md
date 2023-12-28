@@ -17,15 +17,11 @@ WP Tech Website & AC Component Library.
   
 ### About Me
 
-I’m a full-stack developer and Charity Co-founder of stopholdingback.org who can work across the whole stack with most of my professional experience being in the front-end. At WP Tech (Sweden), I lead the front-end development of our cross-platform applications while contributing to the building, digitalization and automation of our internal work-flows.
+I’m a full-stack typescript developer and Charity Co-founder of stopholdingback.org.
 
-What interests me is digitalization, sustainability, social-impact, AI. I thrive in teams, helping others grow and contributing to culture that fosters genuine collaboration and connection.
+I plan and build cross-platform systems and mobile applications at WP Tech, Sweden. Known for my collaborative and team-oriented approach, I also contribute to the digitalization and automation of internal workflows.
 
 Visit my portfolio website at [ayoadesanya.com](https://ayoadesanya.com). 
-
-#### Note
-
-- My latest work has been developed for comapanies which I do not have authority to share pubically. 
 
 #### I have the most experiance in building
 
@@ -33,7 +29,7 @@ Visit my portfolio website at [ayoadesanya.com](https://ayoadesanya.com).
 
 #### Current Tech stack
 
-- React, Expo React Native, Next Js, TRPC, Tailwind CSS, Prisma/Drizzle, Vercel/GCP
+- React, Expo React Native, Next Js, TRPC, Tailwind CSS, Drizzle, SQL, Vercel/GCP
 
 <!--
 **AyoCodess/ayocodess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
