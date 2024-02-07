@@ -13,7 +13,7 @@ Orginally from 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Living in :sweden:
 
 ### Currently working on... 
 
-WP Tech Website & AC Component Library. 
+WP Tech Website & Mobile Application
   
 ### About Me
 
