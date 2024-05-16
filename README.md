@@ -25,7 +25,7 @@ Visit my portfolio website at [ayoadesanya.com](https://ayoadesanya.com).
 
 #### I have the most experiance in building:
 
-- Websites (Next.js), Dashboards (Next.js), Mobile apps (React native Expo), Node API's (Express/Fastify, TRPC, Next,js)
+- Websites (Next.js), Dashboards (Next.js), Mobile apps (React Native Expo), Node API's (Express/Fastify, TRPC, Next,js)
 
 <!--
 **AyoCodess/ayocodess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
