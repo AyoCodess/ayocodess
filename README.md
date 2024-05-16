@@ -17,7 +17,7 @@ Orginally from 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Living in :sweden:
   
 ### About Me
 
-I’m a full-stack typescript developer and Charity Co-founder of [stopholdingback.org.com](https://stopholdingback.org)
+I’m a full-stack typescript developer and Charity Co-founder of [stopholdingback](https://stopholdingback.org)
 
 I plan and build cross-platform systems and mobile applications at WP Tech, Sweden. Known for my collaborative and team-oriented approach, I also contribute to the digitalization and automation of internal workflows.
 
