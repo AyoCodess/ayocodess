@@ -17,9 +17,11 @@ Orginally from 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Living in :sweden:
   
 ### About Me
 
-I’m a full-stack typescript developer and Charity Co-founder of [stopholdingback](https://stopholdingback.org)
+I’m a full-stack typescript developer, Co-founder of the honeymoon app and Charity Co-founder of [stopholdingback](https://stopholdingback.org)
 
-I plan and build cross-platform systems and mobile applications at WP Tech, Sweden. Known for my collaborative and team-oriented approach, I also contribute to the digitalization and automation of internal workflows.
+Most recently I've planned and built cross-platform systems and mobile applications at WP Tech, Sweden. 
+
+I'm Known for my collaborative and team-oriented nature and love working on projects that add value to society. 
 
 Visit my portfolio website at [ayoadesanya.com](https://ayoadesanya.com). 
 
