@@ -13,11 +13,11 @@ Orginally from 🏴󠁧󠁢󠁥󠁮󠁧󠁿 , ethnically from :nigeria: and Livi
 
 ### Currently working on... 
 
-[@ The Honeymoon App](https://thehoneymoonapp.com) - Democratizing the science-backed formula for lasting love, making it accessible to couples worldwide.
+[@ HoneyRoots](https://honeyroots.io) - Democratizing the science-backed formula for lasting love, making it accessible to couples worldwide.
   
 ### About Me
 
-I’m a full-stack typescript developer, Co-founder of [The Honeymoon App](https://thehoneymoonapp.comp and Charity Co-founder of [stopholdingback](https://stopholdingback.org)
+I’m a full-stack typescript developer, Co-founder of [HoneyRoots](https://honeyroots.io) and Charity Co-founder of [stopholdingback](https://stopholdingback.org)
 
 Most recently I've planned and built cross-platform systems at WP Tech, Sweden. 
 
