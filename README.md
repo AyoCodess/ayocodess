@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Orginally from 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Living in :sweden:
+Orginally from 🏴󠁧󠁢󠁥󠁮󠁧󠁿 , ethnically from :nigeria: and Living in :sweden:
 
 ### Social Media
 
