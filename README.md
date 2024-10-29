@@ -27,7 +27,7 @@ Visit my portfolio website at [ayoadesanya.com](https://ayoadesanya.com).
 
 #### I have the most experiance in building:
 
-- Websites (Next.js, Vite), Dashboards (Next.js, Vite), Mobile apps (React Native Expo) and Node (Convex Db, MYSQL, Express, Fastify, TRPC, React query and more)
+- Websites (Next.js, Vite), Dashboards (Next.js, Vite), Mobile apps (React Native Expo) and Node (Convex DB, MYSQL, Express, Fastify, TRPC, React query and more)
 
 <!--
 **AyoCodess/ayocodess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
