@@ -21,7 +21,7 @@ I’m a full-stack typescript developer, Co-founder of [HoneyRoots](https://hone
 
 Most recently I've planned and built cross-platform systems at WP Tech, Sweden. 
 
-I'm Known for my collaborative and team-oriented nature and love working on projects that add value to society. 
+I'm known for my collaborative and team-oriented nature and love working on projects that add value to society. 
 
 Visit my portfolio website at [ayoadesanya.com](https://ayoadesanya.com). 
 
