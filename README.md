@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=ayocodess" alt="GitHub Streak" />
 
 
-## &#x1f4c8; GitHub Stats Public)
+## &#x1f4c8; GitHub Stats (Public)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayocodess)](https://github.com/anuraghazra/github-readme-stats)
 
 
