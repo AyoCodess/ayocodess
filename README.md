@@ -44,12 +44,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayocodess)](https://git.io/streak-stats)
+## &#x1f4c8; GitHub Streak
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=ayocodess" alt="GitHub Streak" />
+
 
 ## &#x1f4c8; GitHub Stats
-![](https://komarev.com/ghpvc/?username=ayocodess)   
-
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayocodess&show_icons=true&count_private=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayocodess)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- <div align="center">
