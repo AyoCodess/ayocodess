@@ -21,10 +21,6 @@ I’m a developer, Co-founder of [HoneyRoots](https://honeyroots.io) and Charity
 
 Visit my portfolio website at [ayoadesanya.com](https://ayoadesanya.com). 
 
-#### I have the most experiance in building:
-
-- Websites (Next.js, Vite), Dashboards (Next.js, Vite), Mobile apps (React Native Expo) and backends with (Node, Convex DB, MYSQL, Express, TRPC, React Query and more)
-
 <!--
 **AyoCodess/ayocodess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
