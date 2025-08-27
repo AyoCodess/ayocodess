@@ -17,11 +17,7 @@ Orginally from 🏴󠁧󠁢󠁥󠁮󠁧󠁿, ethnically from :nigeria: and livin
   
 ### About Me
 
-I’m a full-stack typescript developer, Co-founder of [HoneyRoots](https://honeyroots.io) and Charity Co-founder of [stopholdingback](https://stopholdingback.org)
-
-Most recently I've planned and built cross-platform systems at WP Tech, Sweden. 
-
-I'm known for my collaborative and team-oriented nature and love working on projects that add value to society. 
+I’m a developer, Co-founder of [HoneyRoots](https://honeyroots.io) and Charity Co-founder of [stopholdingback](https://stopholdingback.org)
 
 Visit my portfolio website at [ayoadesanya.com](https://ayoadesanya.com). 
 
